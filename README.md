@@ -1,5 +1,5 @@
 ## Scrapper of Migration Flows in The Bronx, NYC 
-This repository contains data scrapped from the US Census data on migration flows from state-to-state, county-to-county, and other smaller-scale entities. The data was compiled from a sample of American Community Survey responses that were collected over a five-year period from 2018 to 2022. 
+This repository contains data scrapped from the US Census data on migration flows from state-to-state, county-to-county, and other smaller-scale entities. Some migration flows include continental regions. The data was compiled from a sample of American Community Survey responses that were collected over a five-year period from 2018 to 2022. 
 
 #### API used: [The ACS 5-Year Migration Flow Files](https://www.census.gov/data/developers/data-sets/acs-migration-flows.html)
 
