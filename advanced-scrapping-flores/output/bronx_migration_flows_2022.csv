@@ -1,0 +1,48 @@
+,reference_fips_county_code,reference_county_name,reference_state_name,reference_mcd_code,reference_mcd_name,total_same_residence,margin_error_same_residence,migrated_from_county_code,migrated_from_county_name,migrated_from_location_name,county_total_movers_from_abroad,margin_error_movers_from_abroad,county_total_movers_diff_county,margin_error_movers_diff_county,county_total_movers_diff_mcd,margin_error_movers_diff_mcd,county_total_movers_diff_metro,margin_error_diff_metro_area,county_total_movers_diff_state,margin_error_diff_state,county_total_movers_diff_country,margin_error_diff_country,state,county
+0,005,Bronx County,New York,,,1310403,4638,,,Alabama,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+1,005,Bronx County,New York,,,1310403,4638,,,Arizona,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+2,005,Bronx County,New York,,,1310403,4638,,,California,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+3,005,Bronx County,New York,,,1310403,4638,,,Colorado,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+4,005,Bronx County,New York,,,1310403,4638,,,Delaware,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+5,005,Bronx County,New York,,,1310403,4638,,,District of Columbia,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+6,005,Bronx County,New York,,,1310403,4638,,,Florida,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+7,005,Bronx County,New York,,,1310403,4638,,,Georgia,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+8,005,Bronx County,New York,,,1310403,4638,,,Illinois,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+9,005,Bronx County,New York,,,1310403,4638,,,Indiana,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+10,005,Bronx County,New York,,,1310403,4638,,,Iowa,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+11,005,Bronx County,New York,,,1310403,4638,,,Kansas,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+12,005,Bronx County,New York,,,1310403,4638,,,Kentucky,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+13,005,Bronx County,New York,,,1310403,4638,,,Louisiana,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+14,005,Bronx County,New York,,,1310403,4638,,,Maine,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+15,005,Bronx County,New York,,,1310403,4638,,,Maryland,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+16,005,Bronx County,New York,,,1310403,4638,,,Massachusetts,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+17,005,Bronx County,New York,,,1310403,4638,,,Michigan,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+18,005,Bronx County,New York,,,1310403,4638,,,Minnesota,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+19,005,Bronx County,New York,,,1310403,4638,,,Missouri,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+20,005,Bronx County,New York,,,1310403,4638,,,Nebraska,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+21,005,Bronx County,New York,,,1310403,4638,,,Nevada,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+22,005,Bronx County,New York,,,1310403,4638,,,New Jersey,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+23,005,Bronx County,New York,,,1310403,4638,,,New Mexico,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+24,005,Bronx County,New York,,,1310403,4638,,,New York,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+25,005,Bronx County,New York,,,1310403,4638,,,North Carolina,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+26,005,Bronx County,New York,,,1310403,4638,,,North Dakota,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+27,005,Bronx County,New York,,,1310403,4638,,,Ohio,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+28,005,Bronx County,New York,,,1310403,4638,,,Oklahoma,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+29,005,Bronx County,New York,,,1310403,4638,,,Oregon,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+30,005,Bronx County,New York,,,1310403,4638,,,Pennsylvania,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+31,005,Bronx County,New York,,,1310403,4638,,,Rhode Island,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+32,005,Bronx County,New York,,,1310403,4638,,,South Carolina,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+33,005,Bronx County,New York,,,1310403,4638,,,Tennessee,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+34,005,Bronx County,New York,,,1310403,4638,,,Texas,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+35,005,Bronx County,New York,,,1310403,4638,,,Virginia,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+36,005,Bronx County,New York,,,1310403,4638,,,Washington,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+37,005,Bronx County,New York,,,1310403,4638,,,West Virginia,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+38,005,Bronx County,New York,,,1310403,4638,,,Puerto Rico,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+39,005,Bronx County,New York,,,1310403,4638,,,Africa,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+40,005,Bronx County,New York,,,1310403,4638,,,Asia,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+41,005,Bronx County,New York,,,1310403,4638,,,Central America,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+42,005,Bronx County,New York,,,1310403,4638,,,Caribbean,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+43,005,Bronx County,New York,,,1310403,4638,,,Europe,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+44,005,Bronx County,New York,,,1310403,4638,,,U.S. Island Areas,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+45,005,Bronx County,New York,,,1310403,4638,,,Northern America,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
+46,005,Bronx County,New York,,,1310403,4638,,,South America,9919,1396,31106,2730,,,,,8544,1037,103902,4627,36,005
