@@ -8,11 +8,13 @@ This repository contains data scrapped from the US Census data on migration flow
 #### Methodology
 The notebook scrapping-census-api.ipynb performs the following steps:
 
-Part 1: Defines the target dictionary
-Using the variables [listed by the US Census for this API] (https://api.census.gov/data/2022/acs/flows/variables.html), the first step was to input all relevant data columns into a dictionary called "target_dict." The dictionary values were re-names of the US Census data that would help improve readability once the information is scrapped later on in the notebook. 
-Part 2: Create Components of the Endpoint 
+- Part 1: Defines the target dictionary
+Using the variables [listed by the US Census for this API] (https://api.census.gov/data/2022/acs/flows/variables.html), the first step was to input all relevant data columns into a dictionary called "target_dict." The dictionary values were re-names of the US Census data that would help improve readability once the information is scrapped later on in the notebook.
+ 
+- Part 2: Create Components of the Endpoint 
 In this section, the base_url, query_string, and individualized API key were used to compile a reusable endpoint request. Since the data was collected over a five-year period, the only variables that could change until the newest dataset publishes are the target_county and target_state. In this notebook, we focused on The Bronx County in New York. It is imperative to use the target county and state's respective FIPS code. 
-Part 3: Request & Response
+
+- Part 3: Request & Response
 Once the request was processed successfully, the next and nearly final step was to convert the data into JSON, input the data into a dataframe, and finally turn the dataframe into a .csv file. 
 
 #### Outputs
